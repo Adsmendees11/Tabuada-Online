@@ -23,7 +23,7 @@ Este projeto tem como objetivo aplicar os conceitos básicos de programação we
 
 Este projeto foi desenvolvido durante as aulas do [Curso em Vídeo](https://www.cursoemvideo.com/) com o professor **Gustavo Guanabara**, como parte do módulo de JavaScript.
 
-## 📷 Preview
+## Acesse a Tabuada aqui:
 
-![tabuada-preview](https://via.placeholder.com/600x300?text=Preview+da+Tabuada)
+![Calculadora de Tabuada](https://adsmendees11.github.io/Tabuada-Online/)
 
