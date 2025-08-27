@@ -25,5 +25,5 @@ Este projeto foi desenvolvido durante as aulas do [Curso em Vídeo](https://www.
 
 ## Acesse a Tabuada aqui:
 
-![Calculadora de Tabuada](https://adsmendees11.github.io/Tabuada-Online/)
+[Calculadora de Tabuada](https://adsmendees11.github.io/Tabuada-Online/)
 
