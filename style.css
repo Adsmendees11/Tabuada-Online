@@ -1,0 +1,42 @@
+/* style.css */
+body {
+            width: 300px;
+            height: 530px;
+            margin: 50px 500px 50px 500px;
+            background-color: #f0f0f0; /* Cor de fundo */
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Sombra */
+            padding: 10px; /* Espaçamento interno */
+            font-size: 16px; /* Tamanho da fonte */
+            outline: none; /* Remove a borda padrão ao focar */
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+}
+
+input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+}
+
+input[type="button"] {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="button"]:hover {
+    background-color: #45a049;
+}
+
+#tabu {
+    margin-top: 20px;
+}
